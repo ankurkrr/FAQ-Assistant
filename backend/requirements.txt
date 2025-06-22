@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-jose
+langchain
+langchain-community
+langchain-huggingface
+transformers
+huggingface-hub
+python-dotenv
+python-multipart
